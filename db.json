@@ -1,0 +1,57 @@
+{
+    "servicos":[
+        {
+            "id":1,
+            "nome":"Substituição de componentes de notebooks",
+            "descricao":"Descrição do serviço 1",
+            "image": "https://i.imgur.com/8uDHPzS.jpg"
+        },
+        {
+            "id":2,
+            "nome":"Manutenção preventiva",
+            "descricao":"Manutenção preventiva",
+            "image": "https://i.imgur.com/LtwLj4N.jpg"
+
+        },
+        {
+            "id":3,
+            "nome":"Troca de telas",
+            "descricao":"Descrição do serviço 3",
+            "image": "https://i.imgur.com/mALGVuM.jpg"
+        },
+        {
+            "id":4,
+            "nome":"Montagem de computador",
+            "descricao":"Descrição do serviço 4",
+            "image": "https://i.imgur.com/uQCD4FS.jpg"
+
+        },
+        {
+            "id":5,
+            "nome":"Manutenção preventiva",
+            "descricao":"Montagem de computador",
+            "image": "https://i.imgur.com/KWTfCkJ.jpg"
+        },
+        {
+            "id":6,
+            "nome":"Suporte de computador",
+            "descricao":"Descrição do serviço 6",
+            "image": "https://i.imgur.com/VKrVYlc.jpg"
+
+        },
+        {
+            "id":7,
+            "nome":"Instalação de sistemas operacionais",
+            "descricao":"Windows, Linux, Mac OS",
+            "image": "https://i.imgur.com/mm4zkDR.jpg"
+
+        },
+        {
+            "id":8,
+            "nome":"Automação residencial",
+            "descricao":"Automação residencial",
+            "image": "https://i.imgur.com/2ErBdg6.jpg"
+
+        }
+    ]
+}
