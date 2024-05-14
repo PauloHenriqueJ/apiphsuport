@@ -34,21 +34,21 @@
         },
         {
             "id":6,
-            "nome":"Suporte de computador",
+            "nome":"Suporte técnico",
             "descricao":"Descrição do serviço 6",
             "image": "https://i.imgur.com/VKrVYlc.jpg"
 
         },
         {
             "id":7,
-            "nome":"Instalação de sistemas operacionais",
+            "nome":"Instalação de sistemas S.O",
             "descricao":"Windows, Linux, Mac OS",
             "image": "https://i.imgur.com/mm4zkDR.jpg"
 
         },
         {
             "id":8,
-            "nome":"Automação residencial",
+            "nome":"Automação residêncial",
             "descricao":"Automação residencial",
             "image": "https://i.imgur.com/2ErBdg6.jpg"
 
