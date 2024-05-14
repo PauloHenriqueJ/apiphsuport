@@ -3,7 +3,7 @@
         {
             "id":1,
             "nome":"Substituição de componentes de notebooks",
-            "descricao":"Descrição do serviço 1",
+            "descricao":"Memoria, SSD, teclado",
             "image": "https://i.imgur.com/8uDHPzS.jpg"
         },
         {
@@ -22,7 +22,7 @@
         {
             "id":4,
             "nome":"Montagem de computador",
-            "descricao":"Descrição do serviço 4",
+            "descricao":"Já com S.O",
             "image": "https://i.imgur.com/uQCD4FS.jpg"
 
         },
