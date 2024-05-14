@@ -9,14 +9,13 @@
         {
             "id":2,
             "nome":"Manutenção preventiva",
-            "descricao":"Manutenção preventiva",
+            "descricao":"Limpeza",
             "image": "https://i.imgur.com/LtwLj4N.jpg"
 
         },
         {
             "id":3,
             "nome":"Troca de telas",
-            "descricao":"Descrição do serviço 3",
             "image": "https://i.imgur.com/mALGVuM.jpg"
         },
         {
@@ -28,14 +27,14 @@
         },
         {
             "id":5,
-            "nome":"Manutenção preventiva",
-            "descricao":"Montagem de computador",
+            "nome":"Manutenção",
+            "descricao":"Manutenção de computador",
             "image": "https://i.imgur.com/KWTfCkJ.jpg"
         },
         {
             "id":6,
             "nome":"Suporte técnico",
-            "descricao":"Descrição do serviço 6",
+            "descricao":"Presencial e remotamente",
             "image": "https://i.imgur.com/VKrVYlc.jpg"
 
         },
@@ -49,7 +48,7 @@
         {
             "id":8,
             "nome":"Automação residêncial",
-            "descricao":"Automação residencial",
+            "descricao":"Deixe seu ambiente inteligente",
             "image": "https://i.imgur.com/2ErBdg6.jpg"
 
         }
